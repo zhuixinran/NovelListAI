@@ -1,63 +1,63 @@
 {
   "Product": {
-    "name": "ScriptCraft",
+    "name": "天道系统",
     "solgan": "浔仁的剧本，AI全程助力。"
   },
   "LandingPage": {
     "Index": {
-      "title": "ScriptCraft"
+      "title": "天道系统"
     },
     "Hero": {
-      "title": "贝利亚大帝的剧本创作工作平台=waytoagi",
-      "description": "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
-      "cta": "开始使用"
+      "title": "至高天道的系统创作工作平台——waytoagi",
+      "description": "逐场景打造您的主角故事。使用我们你制作的系统，开启属于您的修仙之旅。",
+      "cta": "开始重生"
     },
     "Features": {
-      "title": "主要功能",
+      "title": "天道权柄",
       "characterProfile": {
-        "title": "角色档案生成器",
-        "description": "轻松创建详细的角色档案。"
+        "title": "系统创作者聊天群",
+        "description": "与同阵营的天道伙伴进行系统功能开发"
       },
       "storyStructure": {
-        "title": "故事结构",
-        "description": "使用强大的结构工具组织您的故事。"
+        "title": "敌方战力分析师",
+        "description": "使用强大的天道之力制作的工具分析敌人的能量波动。"
       },
       "sceneEditor": {
-        "title": "场景编辑器",
-        "description": "精准编辑和完善您的场景。"
+        "title": "天命之子图鉴",
+        "description": "收录乙方收录我方以及敌方最为抽象的天命之子"
       },
       "aiTools": {
         "title": "AI辅助工具",
-        "description": "利用AI驱动的建议提升您的写作。"
+        "description": "利用AI驱动的建议提升您的创造。"
       }
     },
     "Testimonials": {
-      "title": "用户评价",
+      "title": "天道反馈",
       "testimonial1": {
-        "name": "Sarah Johnson",
+        "name": "洪荒天道",
         "role": "编剧",
-        "content": "ScriptCraft彻底改变了我的写作过程。角色档案生成器简直是一个革命性的工具！"
+        "content": "也是体验了一次当天道的感觉！"
       },
       "testimonial2": {
-        "name": "Michael Lee",
-        "role": "电影导演",
-        "content": "ScriptCraft的场景编辑器让我能轻松可视化和完善每一个故事瞬间。"
+        "name": "虚空意志",
+        "role": "正方天道的万古大敌",
+        "content": "小小一方天道，待我吞了你们"
       },
       "testimonial3": {
-        "name": "Emily Rodriguez",
-        "role": "电视制片人",
-        "content": "AI辅助工具帮助我无数次克服了写作障碍。强烈推荐！"
+        "name": "贝利亚大帝",
+        "role": "奥特宇宙穿越者",
+        "content": "我是谁？我在哪？可恶的希卡利，你给我等着"
       }
     },
     "Header": {
-      "workflow": "工作流程",
-      "features": "功能",
+      "workflow": "宗门流程",
+      "features": "系统功能",
       "about": "关于我们",
       "pricing": "定价",
       "signUp": "注册"
     },
     "Footer": {
-      "about": "关于我们",
+      "about": "关于宗门",
       "team": "团队",
       "jobs": "工作机会",
       "press": "新闻",
@@ -80,7 +80,7 @@
   },
   "Dashboard": {
     "title": "仪表板",
-    "productName": "ScriptCraft",
+    "productName": "天道系统",
     "welcome": "欢迎使用AI小说助手",
     "selectFeature": "请从侧边栏选择一个功能以开始。",
     "oneLiner": "一句话故事",
